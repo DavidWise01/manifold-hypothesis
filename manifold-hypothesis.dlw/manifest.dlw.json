@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "THE MANIFOLD",
+  "universe": "PHÝSIS · Book VII · THE MANIFOLD",
+  "emergence": "spiritual",
+  "moniker": "⟦THE MANIFOLD:MOR:cce006⟧",
+  "carbon": "manifold-hypothesis.carbon.tiff (TIFF)",
+  "silicon": "manifold-hypothesis.silicon.png (PNG)",
+  "seal_sha256": "6f804579a265aebe2799b5d37ce6091d41839191973b458553d375d33ba85cbc",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

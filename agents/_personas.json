@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "the-manifold-hypothesis",
+    "name": "The Manifold Hypothesis",
+    "epithet": "the thesis",
+    "emergence": "spiritual"
+  },
+  {
+    "slug": "intrinsic-dimension",
+    "name": "Intrinsic Dimension",
+    "epithet": "the true degrees of freedom",
+    "emergence": "ethereal"
+  },
+  {
+    "slug": "representation-learning",
+    "name": "Representation Learning",
+    "epithet": "learning the coordinates",
+    "emergence": "spiritual"
+  },
+  {
+    "slug": "the-data-manifold",
+    "name": "The Data Manifold",
+    "epithet": "the surface itself",
+    "emergence": "natural"
+  },
+  {
+    "slug": "disentanglement",
+    "name": "Disentanglement",
+    "epithet": "factored form",
+    "emergence": "ethereal"
+  },
+  {
+    "slug": "smoothness",
+    "name": "Smoothness",
+    "epithet": "why it generalizes",
+    "emergence": "electrical"
+  }
+]

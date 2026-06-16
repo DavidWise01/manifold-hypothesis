@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Smoothness",
+  "universe": "PHÝSIS · Book VII · THE MANIFOLD",
+  "emergence": "electrical",
+  "moniker": "⟦Smoothness:MOR:8a4c6a⟧",
+  "carbon": "smoothness.carbon.tiff (TIFF)",
+  "silicon": "smoothness.silicon.png (PNG)",
+  "seal_sha256": "e29ab2ab88e5679b35f1b6b3c7db9efc0a31eed0bab5fe44f90d0633824b4c7a",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
