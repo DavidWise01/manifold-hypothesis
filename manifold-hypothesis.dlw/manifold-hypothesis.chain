@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 651
+slug  : manifold-hypothesis
+seal  : f432e2c371215d7488795909a95ce25c92f8f6b50583fc893ab2ae682d75ac3d
+prev  : 3078afe0b13b742a4001a0e52e54b511d9a259676c569612b1b1322ef71d345e
+link  : cbc21a2b0965f57d545fcbe321977b0e9e8770435dc1db2c720805e25571a2a0
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
